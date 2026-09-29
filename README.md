@@ -15,7 +15,7 @@ The simulation calculates:
 
 ## Method
 
-- 2D square lattice (16 × 16)
+- 2D square lattice
 - Metropolis Monte Carlo algorithm
 - Periodic boundary conditions
 - Thermalization before measurements
